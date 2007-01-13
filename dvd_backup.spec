@@ -18,10 +18,10 @@ DVD discs. DVD Backup supports multisession and incremental backups.
 Mail notification is also supported.
 
 %description -l pl
-SILVERCODERS DVD Backup jest skryptem unixowym s³u¿±cym do robienia
+SILVERCODERS DVD Backup jest skryptem uniksowym s³u¿±cym do robienia
 kopii zapasowych plików oraz baz danych (PostgreSQL, MySQL) na p³ytach
-DVD. DVD Backup wspiera multisesje oraz kopie przyrostowe.
-Powiadamianie na maila jest równie¿ dostêpne.
+DVD. DVD Backup wspiera kopie wielosesyjne oraz przyrostowe.
+Powiadamianie poczt± elektroniczn± jest równie¿ dostêpne.
 
 %prep
 %setup -q -n %{name}
