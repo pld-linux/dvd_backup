@@ -1,5 +1,5 @@
 Summary:	Backup on DVD
-Summary(pl):	Kopie zapasowe na DVD
+Summary(pl.UTF-8):   Kopie zapasowe na DVD
 Name:		dvd_backup
 Version:	0.5.0
 Release:	0.1
@@ -17,11 +17,11 @@ functionality for backuping files and databases (PostgreSQL, MySQL) on
 DVD discs. DVD Backup supports multisession and incremental backups.
 Mail notification is also supported.
 
-%description -l pl
-SILVERCODERS DVD Backup jest skryptem uniksowym s³u¿±cym do robienia
-kopii zapasowych plików oraz baz danych (PostgreSQL, MySQL) na p³ytach
+%description -l pl.UTF-8
+SILVERCODERS DVD Backup jest skryptem uniksowym sÅ‚uÅ¼Ä…cym do robienia
+kopii zapasowych plikÃ³w oraz baz danych (PostgreSQL, MySQL) na pÅ‚ytach
 DVD. DVD Backup wspiera kopie wielosesyjne oraz przyrostowe.
-Powiadamianie poczt± elektroniczn± jest równie¿ dostêpne.
+Powiadamianie pocztÄ… elektronicznÄ… jest rÃ³wnieÅ¼ dostÄ™pne.
 
 %prep
 %setup -q -n %{name}
