@@ -1,5 +1,5 @@
 Summary:	Backup on DVD
-Summary(pl.UTF-8):   Kopie zapasowe na DVD
+Summary(pl.UTF-8):	Kopie zapasowe na DVD
 Name:		dvd_backup
 Version:	0.5.0
 Release:	0.1
