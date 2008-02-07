@@ -12,7 +12,7 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-SILVERCODERS DVD Backup is an unix shell script providing
+SILVERCODERS DVD Backup is an Unix shell script providing
 functionality for backuping files and databases (PostgreSQL, MySQL) on
 DVD discs. DVD Backup supports multisession and incremental backups.
 Mail notification is also supported.
